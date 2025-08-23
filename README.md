@@ -1,9 +1,8 @@
 <div style="font-family: 'Fira Code', 'Consolas', 'Monaco', 'Courier New', monospace;">
 
 <div align="center">
-  <h1>Hi there, I'm Harsh 👋</h1>
-  <h3>🚀 FullStack Developer from India 🇮🇳</h3>
-  <p><em>Turning coffee into code since forever ☕→💻</em></p>
+  <h1>Hi there, I'm Harsh👋</h1>
+  <h3>AI & FullStack App Developer from India</h3>
 </div>
 
 <div align="center">
