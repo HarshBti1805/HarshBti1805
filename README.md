@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img height="300" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif" alt="Coding animation" />
+  <img height="500" width="100%" src="https://64.media.tumblr.com/3ebef054c877d03c507aa8c40149908b/6ea0a0e867ebf441-0d/s1280x1920/515b1f92b9830672a913d4f32c3f233b08bf3643.gif" alt="Coding animation" />
 </div>
 
 ---
