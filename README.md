@@ -1,11 +1,10 @@
-<!-- Import JetBrains Mono from Google Fonts -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<div style="font-family: 'Fira Code', 'Consolas', 'Monaco', 'Courier New', monospace;">
 
-<div style="font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', 'Monaco', 'Courier New', monospace;">
-
-<h2 align="left">Hi 👋! My name is Harsh and I'm a FullStack Developer from India.</h2>
+<div align="center">
+  <h1>Hi there, I'm Harsh 👋</h1>
+  <h3>🚀 FullStack Developer from India 🇮🇳</h3>
+  <p><em>Turning coffee into code since forever ☕→💻</em></p>
+</div>
 
 <div align="center">
   <img height="300" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif" alt="Coding animation" />
@@ -15,7 +14,7 @@
 
 ## 🚀 About Me
 
-<div style="font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', 'Monaco', 'Courier New', monospace; font-size: 16px; line-height: 1.6;">
+<div style="font-family: 'Fira Code', 'Consolas', 'Monaco', 'Courier New', monospace; font-size: 16px; line-height: 1.6;">
 
 ```typescript
 const harsh = {
@@ -24,12 +23,14 @@ const harsh = {
   passions: ["Web Development", "Cloud Computing", "AI/ML"],
   currentFocus: "Building scalable applications",
   funFact: "I turn coffee into code ☕→💻",
+  currentlyLearning: "Advanced DevOps & Cloud Architecture",
+  lookingFor: "Exciting projects and collaborations",
 };
 ```
 
 </div>
 
----
+## 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -107,6 +108,17 @@ const harsh = {
 
 ---
 
+## 💡 Fun Quote
+
+<div align="center">
+  <blockquote>
+    <p><em>"The best error message is the one that never shows up."</em></p>
+    <p><strong>- Thomas Fuchs</strong></p>
+  </blockquote>
+</div>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -114,7 +126,7 @@ const harsh = {
   <img src="https://streak-stats.demolab.com?user=HarshBti1805&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshBti1805&radius=16&theme=react&area=true&order=5" height="300" alt="Contribution Activity Graph" />
 </div>
 
@@ -135,11 +147,24 @@ const harsh = {
 
 ---
 
-<div style="font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', 'Monaco', 'Courier New', monospace; text-align: center; margin: 20px 0;">
+## 🚀 Let's Connect!
+
+<div style="font-family: 'Fira Code', 'Consolas', 'Monaco', 'Courier New', monospace; text-align: center; margin: 20px 0;">
 
 ```javascript
 // Thanks for visiting my profile!
 console.log("Let's build something amazing together! 🚀");
+
+// Current status: Open to new opportunities
+const status = {
+  available: true,
+  lookingFor: [
+    "Full-time roles",
+    "Freelance projects",
+    "Open source contributions",
+  ],
+  message: "Always excited to collaborate on interesting projects!",
+};
 ```
 
 </div>
@@ -150,10 +175,9 @@ console.log("Let's build something amazing together! 🚀");
 
 <img src="https://raw.githubusercontent.com/HarshBti1805/HarshBti1805/output/snake.svg" alt="Snake animation" />
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshBti1805/HarshBti1805/output/pacman-contribution-graph.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshBti1805/HarshBti1805/output/pacman-contribution-graph-light.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HarshBti1805/HarshBti1805/output/pacman-contribution-graph.svg">
-</picture> -->
+<!-- Snake animation shows my GitHub contribution history -->
+<p align="center">
+  <em>🐍 Snake animation shows my daily coding activity</em>
+</p>
 
 </div>
