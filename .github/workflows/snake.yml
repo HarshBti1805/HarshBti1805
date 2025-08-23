@@ -1,4 +1,4 @@
-name: Generate snake animation
+name: Generate snake animation and pacman contribution graph
 
 on:
   schedule: # execute every 12 hours
@@ -24,7 +24,19 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
-      - name: push snake.svg to the output branch
+      - name: generate pacman contribution graph
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/pacman-contribution-graph.svg?palette=github-dark&pacman=1
+
+      - name: generate pacman contribution graph (light theme)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/pacman-contribution-graph-light.svg?palette=github&pacman=1
+
+      - name: push files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

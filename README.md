@@ -1,4 +1,4 @@
-<div style="font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', 'Monaco', monospace;">
+<div style="font-family: 'Fira Code', 'Consolas', 'Monaco', 'Courier New', monospace;">
 
 <h2 align="left">Hi 👋! My name is Harsh and I'm a FullStack Developer from India.</h2>
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-<div style="font-family: 'JetBrains Mono', monospace; font-size: 16px; line-height: 1.6;">
+<div style="font-family: 'Fira Code', 'Consolas', 'Monaco', 'Courier New', monospace; font-size: 16px; line-height: 1.6;">
 
 ```typescript
 const harsh = {
@@ -130,7 +130,7 @@ const harsh = {
 
 ---
 
-<div style="font-family: 'JetBrains Mono', monospace; text-align: center; margin: 20px 0;">
+<div style="font-family: 'Fira Code', 'Consolas', 'Monaco', 'Courier New', monospace; text-align: center; margin: 20px 0;">
 
 ```javascript
 // Thanks for visiting my profile!
@@ -146,8 +146,8 @@ console.log("Let's build something amazing together! 🚀");
 <img src="https://raw.githubusercontent.com/HarshBti1805/HarshBti1805/output/snake.svg" alt="Snake animation" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshBti1805/HarshBti1805/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshBti1805/HarshBti1805/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshBti1805/HarshBti1805/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshBti1805/HarshBti1805/output/pacman-contribution-graph-light.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HarshBti1805/HarshBti1805/output/pacman-contribution-graph.svg">
 </picture>
 
