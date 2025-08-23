@@ -1,15 +1,18 @@
 <div style="font-family: 'Fira Code', 'Consolas', 'Monaco', 'Courier New', monospace;">
 
+<!-- Animated Banner using SVG for GitHub compatibility -->
 <div align="center">
-  <h1>Hi there, I'm Harsh👋</h1>
-  <h3>AI & FullStack App Developer from India</h3>
+  
+  <!-- Animated Banner (Typing SVG) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=20B2AA&center=true&vCenter=true&width=1000&height=100&lines=Hi+there%2C+I'm+Harsh!+%F0%9F%91%8B;AI+%26+FullStack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+
 </div>
 
 <div align="center">
   <img height="500" width="100%" src="https://64.media.tumblr.com/3ebef054c877d03c507aa8c40149908b/6ea0a0e867ebf441-0d/s1280x1920/515b1f92b9830672a913d4f32c3f233b08bf3643.gif" alt="Coding animation" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 About Me
 
@@ -105,7 +108,7 @@ const harsh = {
   <img src="https://cdn.simpleicons.org/jenkins/D24939" height="30" alt="jenkins logo"  />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💡 Fun Quote
 
@@ -130,8 +133,6 @@ const harsh = {
 </div>
 
 ---
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=HarshBti1805.HarshBti1805&left_color=black&right_color=deeppink&left_text=Total%20Visitors"  />
 
 ###
 
@@ -168,7 +169,7 @@ const status = {
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br clear="both">
 
@@ -178,5 +179,10 @@ const status = {
 <p align="center">
   <em>🐍 Snake animation shows my daily coding activity</em>
 </p>
+
+<!-- Animated Footer Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing%20together!%20🚀&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75" alt="Footer Banner" width="100%"/>
+</div>
 
 </div>
