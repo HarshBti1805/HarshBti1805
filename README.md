@@ -206,10 +206,11 @@ const harsh = {
 ## 💡 Fun Quote
 
 <div align="center">
-  <blockquote style="background: #000; color: #00ff88; padding: 25px; border: 2px solid #00ff88; border-radius: 12px; max-width: 500px; margin: 20px auto; box-shadow: 0 0 20px #00ff8844, inset 0 0 20px #00ff8811; font-family: 'Courier New', monospace;">
-    <p style="font-size: 20px; margin: 0 0 12px 0; line-height: 1.6; text-shadow: 0 0 10px #00ff88;"><em>"I've seen things you people wouldn't believe... mostly in my own codebase."</em></p>
-    <p style="font-size: 18px; margin: 0; color: #ff0088; text-shadow: 0 0 5px #ff0088;"><strong>- Mahatma Gandhi (Probably)</strong></p>
-  </blockquote>
+
+> _"I've seen things you people wouldn't believe... mostly in my own codebase."_
+>
+> **- Mahatma Gandhi (Probably)**
+
 </div>
 
 ---
