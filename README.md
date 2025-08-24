@@ -272,7 +272,6 @@ const status = {
 </picture>
 
 <!-- Animated Footer Banner -->
-<!-- Animated Footer Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing%20together!%20🚀&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=70&desc=!&descSize=16&descAlignY=90&descColor=cccccc" alt="Footer Banner" width="100%"/>
 </div>
