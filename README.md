@@ -206,13 +206,8 @@ const harsh = {
 ## 💡 Fun Quote
 
 <div align="center">
-
-> _"I've seen things you people wouldn't believe... mostly in my own codebase."_
->
-> **- Mahatma Gandhi (Probably)**
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF88&background=000000&center=true&vCenter=true&width=600&height=100&lines=I've+seen+things+you+people+wouldn't+believe...;mostly+in+my+own+codebase.;-+Mahatma+Gandhi+(Probably)" alt="Quote" />
 </div>
-
 ---
 
 ## 📊 GitHub Statistics
