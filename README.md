@@ -173,12 +173,13 @@ const status = {
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HarshBti1805/HarshBti1805/output/snake.svg" alt="Snake animation" />
+<br clear="both">
 
-<!-- Snake animation shows my GitHub contribution history -->
-<p align="center">
-  <em>🐍 Snake animation shows my daily coding activity</em>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshBti1805/HarshBti1805/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshBti1805/HarshBti1805/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HarshBti1805/HarshBti1805/output/pacman-contribution-graph.svg">
+</picture>
 
 <!-- Animated Footer Banner -->
 <div align="center">
