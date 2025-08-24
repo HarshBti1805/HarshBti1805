@@ -137,6 +137,7 @@ const harsh = {
 ###
 
 <div align="right">
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=HarshBti1805.HarshBti1805&left_color=black&right_color=deeppink&left_text=Total%20Visitors"  />
   <a href="mailto:singlaharsh943@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
